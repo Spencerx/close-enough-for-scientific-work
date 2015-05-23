@@ -2,7 +2,7 @@
 highlighter: pygments
 title: Introduction
 encoding: UTF-8
-authors: Samantha Ahern, Mayeul d\'Avezac, Adrian Harwood, Joe O\'Conner
+authors: Samantha Ahern, Mayeul d\'Avezac, Adrian Harwood, Joseph O\'Connor
 ---
 
 <head>

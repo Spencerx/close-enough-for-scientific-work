@@ -1,7 +1,7 @@
 Lattice-Boltzmann implementation in Julia
 -----------------------------------------
 
-Authors: Samantha Ahern, Mayeul d'Avezac, Adrian Harwood, Joe O'Conner  
+Authors: Samantha Ahern, Mayeul d'Avezac, Adrian Harwood, Joseph O'Connor  
 
 The Lattice-Boltzmann method solves the Navier-Stokes equations - i.e. fluid
 dynamics - using an intuitive description of how a discrete set of fictive
