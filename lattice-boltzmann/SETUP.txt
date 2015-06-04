@@ -1,5 +1,14 @@
-Requirements
-------------
+Working on the Cloud
+--------------------
+
+Once the notebooks (*.ipynb files) are on disk somewhere, head to
+[JuliaBox](www.JuliaBox.org). You can register to JuliaBox for free. Look for
+the upload button and upload the notebooks. Click on the main one. It should
+start after a few seconds. There are links to the other notebooks down the
+page (provided you've uploaded them).
+
+Working Local, Requirements
+---------------------------
 
 - [Julia](http://julialang.org/): Science-oriented programming language
 - [Jupyter](https://jupyter.org/): Shiny way to write code+comments.
