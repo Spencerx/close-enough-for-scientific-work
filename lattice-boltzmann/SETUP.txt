@@ -3,16 +3,16 @@ Working on the Cloud
 
 Once the notebooks (*.ipynb files) are on disk somewhere, head to
 [JuliaBox](www.JuliaBox.org). You can register to JuliaBox for free. Look for
-the upload button and upload the notebooks. Click on the main one. It should
+the upload button and upload the notebooks. Click on the notebook Main.ipynb. It should
 start after a few seconds. There are links to the other notebooks down the
 page (provided you've uploaded them).
 
-Working Local, Requirements
+Working Locally
 ---------------------------
 
 - [Julia](http://julialang.org/): Science-oriented programming language
-- [Jupyter](https://jupyter.org/): Shiny way to write code+comments.
-- [IJulia.jl](https://github.com/JuliaLang/IJulia.jl): Shiny way to write code+comments with Julia.
+- [Jupyter](https://jupyter.org/): Shiny way to write code and comments.
+- [IJulia.jl](https://github.com/JuliaLang/IJulia.jl): Shiny way to write code and comments with Julia.
 - [LatBo.jl](https://github.com/UCL/LatBo.jl): Fluid-dynamics code that will be tested in this
   lesson
 - [FactCheck.jl](https://github.com/JuliaLang/FactCheck.jl): Testing framework
